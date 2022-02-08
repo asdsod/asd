@@ -1,0 +1,189 @@
+/* &display=swap */
+@import "null.css";
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+.wrapper {
+min-height: 100%;
+overflow: hidden;
+}
+body {
+    font-family: 'Shadows Into Light', cursive  ;
+}
+.verh {
+    background-color: darkslategray;
+    height: 250px;
+    margin: 0px 0px 80px 0px;
+}
+.tema {
+    /* background-color: azure; */
+    color:brown;
+    margin: 0px auto 0px auto;
+    width: 800px; 
+    height: 100px;
+    padding: 5px 0px 0px 0px;
+    font-weight: 900;
+    font-family: Shadows Into Light;
+    font-size: 50px;
+    overflow: auto;
+    text-transform: uppercase;
+}
+.pynkt {  
+    /* background-color: aquamarine; */
+    color: brown;
+    line-height: 2;
+    font-weight: 700;
+    font-size: 20px;
+    padding: 0px 0px 0px 20px;
+    width: 500px;
+    text-decoration: underline black;
+    text-transform: uppercase ;
+
+
+}
+.block {
+    font-family:fantasy;
+}
+
+
+
+.text { 
+    /* background-color: bisque; */
+    width: 800px;
+    height: auto;
+    padding: 10px 0px 0px 0px;
+    margin: 0px auto 70px auto ;
+    font-size: 30px;
+    text-indent: 90px;
+    text-shadow:  -10px -10px 4px red
+    }
+.text-2 {
+    width: 800px;
+    height: auto;
+    margin: 0px auto 0px auto;
+    font-size: 30px;
+    line-height: 2;
+    text-indent: 90px;
+    font-family: cursive;
+    font-weight: 700;
+}    
+
+.foto {
+   width: 1000px;
+   margin: 70px auto 40px auto;
+   display:block; 
+}
+
+.block-2 {
+    font-family: fantasy;
+}
+.idea {
+    background-color: aqua;
+    font-size: 50px;
+    font-weight: 900;
+    width: 300px;
+    min-height: 20px;
+    margin: 0px auto 0px 350px;
+    /* font-family: ; */
+}
+.cifri {
+    background-color: chocolate;
+    width: 1400px;
+    height: 400px;
+    padding: 0px 0px 0px 30px;
+    margin: 80px auto 0px; 
+    text-decoration: underline blue;
+    line-height: 2;
+    font-size: 40px;
+    overflow: auto;
+ }
+.foto2 {
+    display: block;
+    width: 1500px; 
+    margin: 50px auto 100px auto  ;
+ }
+.zagol {
+     /* background-color: aquamarine; */
+     font-size: 30px;
+     width: 100px;
+     /* padding: 0px 0px 0px 0px; */
+     margin: 0px auto 150px 200px;
+    text-transform: uppercase;
+ }
+.cell {
+     background-color: antiquewhite;
+     width: 1000px;
+     margin: 0px auto 90px;
+     font-size: 30px;
+     font-family: 'Courier New', Courier, monospace;
+     }
+.citata {
+    background-color: cadetblue;
+    width: 750px;
+    padding: 0px 0px 0px 200px;
+    margin: 0px auto 40px auto;
+    min-height:60px ;
+    font-size: 25px;
+    text-indent: 25px;
+    text-align: center;
+}     
+.text3 {
+    /* background-color: cornflowerblue; */
+    width: 1000px;
+    margin: 0px auto 40px auto;
+    color: chartreuse;
+    font-size: 30px;
+    ;
+}
+.text4 {
+    /* background-color: darkkhaki; */
+    font-size: 40px;
+    width: 700px;
+    margin: 0px auto 50px auto;
+    overflow:auto;
+    height: 150px;
+    text-align: center;
+    padding: 20px 0px 0px 0px;
+    font-family: cursive;
+
+    
+}
+.foto3 {
+    width: 100%;
+    margin: 0px auto 150px auto;
+    display: block;
+}
+.span {
+    display:block;
+    /* background-color: salmon; */
+    color: brown;
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 50px;
+    text-shadow: 10px 10px 3px black;
+    text-decoration: none;
+    font-weight: bold;
+    width: 500px;
+    margin: 0px auto 50px auto;
+}
+.free1 {
+    font-size: 30px;
+    width: 500px;
+    margin: 0px 0px 0px 200px;
+    color: blue;
+    display: inline-block;
+    text-transform: capitalize;
+
+
+}
+.logo {
+    width: 600px;
+    margin: 0px 0px 0px 300px;
+    background-color: aquamarine;
+    display: inline;
+    
+}
+.silka {
+    color: coral;
+    text-decoration: underline;
+}
+
+ /* ОСТАНОВИЛСЯ НА ЗАГОЛОВЕ ИДЕЯ */
